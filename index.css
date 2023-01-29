@@ -1,0 +1,18 @@
+#container{
+    margin-top: 250px;
+    border: 2px solid black;
+    width: 300px;
+}
+
+#submit{
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 3px;
+    background-color: violet;
+    cursor: pointer;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
